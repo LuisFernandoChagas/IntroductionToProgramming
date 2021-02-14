@@ -17,11 +17,11 @@ int main(){
 
 
     
-    printf("\nVELOCIDADE = %.2lf\n\n", maxSpeedKilometter);
-    printf("\nESPACO PERCORRIDO = %.2lf\n\n", distance);
+    printf("\nVELOCIDADE = %.2lf", maxSpeedKilometter);
+    printf("\nESPACO PERCORRIDO = %.2lf", distance);
     printf("\nTRABALHO REALIZADO = %.2lf\n\n", joules);
 
 
-
+    system("pause");
     return 0;
 }

@@ -32,6 +32,6 @@ int main(){
     printf("\nA maior subsequencia de elementos iguais possui %d elementos.\n\n", subSequencia + 1);
 
 
-    // system("pause");
+    system("pause");
     return 0;
 }

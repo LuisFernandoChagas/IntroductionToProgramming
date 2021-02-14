@@ -41,6 +41,6 @@ int main(){
 
     printf("\n\n");
 
-    // system("pause");
+    system("pause");
     return 0;
 }

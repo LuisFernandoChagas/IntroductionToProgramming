@@ -32,6 +32,6 @@ int main(){
     printf("\nO comprimento do segmento crescente maximo e: %d\n\n", segmentMax);
 
 
-    // system("pause");
+    system("pause");
     return 0;
 }
